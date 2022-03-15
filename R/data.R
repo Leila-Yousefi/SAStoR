@@ -1,4 +1,4 @@
-#' GOV.UK register register.
+#' GOV.
 #'
 #' A dataset containing the characteristics of all
 #'  the published GOV.UK registers.
@@ -16,6 +16,6 @@
 #'   \item{fields}{variables contained in the register}
 #'   ...
 #' }
-#' @source \url{https://register.register.gov.uk/records}
-"regreg"
+#' @source \url{https://}
+""
 
